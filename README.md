@@ -1,6 +1,4 @@
-Berikut adalah versi terbaru `README.md` **dalam Bahasa Indonesia** untuk proyek **Sungokong Crypto Monitor**, **tanpa bagian struktur folder** seperti yang kamu minta:
 
----
 
 ## 📄 README.md
 
@@ -28,8 +26,8 @@ Sungokong Crypto Monitor adalah website pemantau cryptocurrency modern dan ramah
 ### 1. Clone repositori
 
 ```bash
-git clone https://github.com/username/react-crypto-monitor-full.git
-cd react-crypto-monitor-full
+[git clone https://github.com/dhiljaa/sungokong_coin.git]
+cd sungokong_coin
 ````
 
 ### 2. Install dependensi
@@ -66,7 +64,7 @@ Untuk menambahkan bahasa baru:
 
 ## 📃 Lisensi
 
-Lisensi MIT © 2025 \[Nama Anda]
+Lisensi MIT © 2025 \[Ahmad Fadhil]
 
 ---
 
